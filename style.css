@@ -349,7 +349,7 @@ footer a:hover {
 
 /* Media Queries  */
 
-@media(max-width: 400px) {
+@media(max-width: 300px) {
     .container {
         width: 100px;
         display: flex;
